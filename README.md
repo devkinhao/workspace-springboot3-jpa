@@ -6,8 +6,6 @@ Este projeto foi desenvolvido no curso de Java Orientado a Objetos, sendo esquem
 
 ## Tecnologias utilizadas
 
+###JAVA
+![Java]
 
-### Java
-<div align = "center">
-<img src=
-</div>
