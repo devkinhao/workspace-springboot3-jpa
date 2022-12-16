@@ -1,4 +1,4 @@
-# workspace-springboot3-jpa
+# Projeto Spring Boot com JPA - Criação de banco de dados
 
 # Informações do projeto
 
